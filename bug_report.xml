@@ -1,0 +1,7 @@
+<?xml version="1.0"?>
+<Bug >
+  <ID>1 </ID>
+  <Name>Registration</Name>
+  <Precondition>Enter_URL</Precondition>
+  <ER>URL_is_open</ER>
+</Bug>
